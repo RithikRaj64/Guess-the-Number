@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+*{
+    margin: 50;
+    padding: 0;
+    font-family: 'Dancing Script', cursive;
+}
+
+body{
+    background-color: rgb(241, 172, 13);
+}
+
+.head{
+    background-color: aqua;
+    text-align: center;
+}
+
+.input{
+    font-size: 20px;
+    position: relative;
+    top: 125px;
+    text-align: center;
+}
+
+#no{
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.btn{
+    background-color: blueviolet;
+    font-size: 20px;
+    padding: 8px;
+}
+
+.lives{
+    position: relative;
+    top: 225px;
+    text-align: center;
+    font-size: 40px;
+}
+
+.msg{
+    position: relative;
+    top: 250px;
+    text-align: center;
+    font-size: 30px;
+}
